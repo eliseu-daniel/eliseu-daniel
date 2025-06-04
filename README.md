@@ -8,7 +8,7 @@ ___
 
 [![Back-end](https://skillicons.dev/icons?i=php,nodejs)]()
 
-[![Front-end](https://skillicons.dev/icons?i=html,css,javascript)]()
+[![Front-end](https://skillicons.dev/icons?i=html,css,javascript,reactjs)]()
 
 [![DevOps](https://skillicons.dev/icons?i=git,mysql,linux)]()
 
