@@ -6,7 +6,7 @@ ___
 
 ## Technologies used
 
-[![Back-end](https://skillicons.dev/icons?i=php,laravel,nodejs,ts,csharp)]()
+[![Back-end](https://skillicons.dev/icons?i=php,laravel,nodejs,ts,cs)]()
 
 [![Front-end](https://skillicons.dev/icons?i=html,css,javascript,react)]()
 
