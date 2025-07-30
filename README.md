@@ -6,11 +6,11 @@ ___
 
 ## Technologies used
 
-[![Back-end](https://skillicons.dev/icons?i=php,laravel,nodejs)]()
+[![Back-end](https://skillicons.dev/icons?i=php,laravel,nodejs,ts)]()
 
-[![Front-end](https://skillicons.dev/icons?i=html,css,javascript,react)]()
+[![Front-end](https://skillicons.dev/icons?i=html,css,javascript,react,ts)]()
 
-[![DevOps](https://skillicons.dev/icons?i=git,mysql,linux)]()
+[![DevOps](https://skillicons.dev/icons?i=git,mysql,postgres,linux)]()
 
 ___
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseu-daniel&layout=compact&theme=dark"/>
