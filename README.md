@@ -6,11 +6,11 @@ ___
 
 ## Technologies used
 
-[![Back-end](https://skillicons.dev/icons?i=php,laravel,nodejs,ts,cs)]()
+[![Back-end](https://skillicons.dev/icons?i=php,laravel,nodejs,ts,cs,express)]()
 
 [![Front-end](https://skillicons.dev/icons?i=html,css,javascript,react)]()
 
-[![DevOps](https://skillicons.dev/icons?i=git,mysql,postgres,linux)]()
+[![DevOps](https://skillicons.dev/icons?i=git,mysql,postgres,linux,docker)]()
 
 ___
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseu-daniel&layout=compact&theme=dark"/>
@@ -22,3 +22,4 @@ ___
 <a href="https://www.linkedin.com/in/eliseu-daniel-ferreira/" target="_blank" style="margin-right: 0.5rem;">
     <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
+
