@@ -8,7 +8,7 @@ ___
 
 [![Back-end](https://skillicons.dev/icons?i=php,laravel,nodejs,ts,cs,express)]()
 
-[![Front-end](https://skillicons.dev/icons?i=html,css,javascript,react)]()
+[![Front-end](https://skillicons.dev/icons?i=html,css,javascript,react,vue)]()
 
 [![DevOps](https://skillicons.dev/icons?i=git,mysql,postgres,linux,docker)]()
 
@@ -22,4 +22,5 @@ ___
 <a href="https://www.linkedin.com/in/eliseu-daniel-ferreira/" target="_blank" style="margin-right: 0.5rem;">
     <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
+
 
